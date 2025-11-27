@@ -51,7 +51,7 @@ Operating System: Windows / Linux / macOS
 
 Terminal or command-line environment
 
-Minimum RAM: 4 MB
+Minimum RAM: 4 GB
 
 Very minimal disk usage
 

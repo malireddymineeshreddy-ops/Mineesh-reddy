@@ -22,7 +22,13 @@ Search and retrieve fee information using the unique Fee ID.
 
 Modify paid fee amount, pending balance, and contact information.
 
-✔ Delete fee records
+✔ Delete fee records<img width="294" height="218" alt="Screenshot 2025-11-27 102802" src="https://github.com/user-attachments/assets/2473edec-3598-419b-944e-c38a277192ff" />
+<img width="254" height="255" alt="Screenshot 2025-11-27 102753" src="https://github.com/user-attachments/assets/13804cde-70e0-433b-af26-ed1b4f67e8b7" />
+<img width="275" height="510" alt="Screenshot 2025-11-27 102737" src="https://github.com/user-attachments/assets/d989fea8-e55e-4bb0-ada6-95eb0c9b6e0d" />
+<img width="374" height="384" alt="Screenshot 2025-11-27 102706" src="https://github.com/user-attachments/assets/96973f60-0219-45f5-8d0d-eead6a006166" />
+<img width="566" height="258" alt="Screenshot 2025-11-27 102637" src="https://github.com/user-attachments/assets/45dd6033-7a73-457d-ace9-c8dd5e0e377d" />
+<img width="259" height="333" alt="Screenshot 2025-11-27 102626" src="https://github.com/user-attachments/assets/15e451de-8c56-43f9-91c9-b237dae427e2" />
+
 
 Remove outdated or incorrect financial records from the system.
 
